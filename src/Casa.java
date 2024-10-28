@@ -9,7 +9,7 @@ public class Casa {
         this.corCasa = "Branco"; //Apenas branco,azul e cinza
 
     }
-
+    // teste de branch
 
 
     public String setCorCasa(String nC){
